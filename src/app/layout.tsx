@@ -12,6 +12,11 @@ export const metadata: Metadata = {
   title: "Training and Development | Tobams Group",
   description:
     "Explore comprehensive training and development programs at Tobams Group designed to enhance skills, broaden knowledge, and propel careers forward.",
+  icons: {
+    icon: "/assets/logo.png",
+    shortcut: "/assets/logo.png",
+    apple: "/assets/logo.png",
+  },
 };
 
 export default function RootLayout({
