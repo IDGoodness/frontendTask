@@ -8,6 +8,7 @@ import TrainingConsultant from "@/components/TrainingConsultant";
 import AccelerationCTA from "@/components/AccelerationCTA";
 import Testimonials from "@/components/Testimonials";
 import PreFooterCTA from "@/components/PreFooterCTA";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -24,6 +25,7 @@ export default function Home() {
         <Testimonials />
         <PreFooterCTA />
       </main>
+      <Footer />
     </div>
   );
 }
