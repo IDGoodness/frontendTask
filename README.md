@@ -7,8 +7,8 @@ A pixel-perfect, responsive static page implementation for **Tobams Group** buil
 ## Links
 
 - **Figma Design Reference:** [Frontend Intern Assessment (Figma)](https://www.figma.com/design/wuqCLkK1feTgB6xxSRRwZu/Frontend-Intern-Assessment?node-id=0-1&p=f&t=qxnAKp4Ael8QtLYz-0)
-- **Live Deployment URL:** `[Your Live Deployment URL Here - e.g. https://intern-task-tobams.vercel.app]`
-- **GitHub Repository:** `[Your Public GitHub Repository URL Here]`
+- **Live Deployment URL:** `[https://frontendtask-ochre.vercel.app/]`
+- **GitHub Repository:** `[https://github.com/IDGoodness/frontendTask]`
 
 ---
 
@@ -27,7 +27,7 @@ A pixel-perfect, responsive static page implementation for **Tobams Group** buil
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/IDGoodness/frontendTask
 cd frontendTask
 ```
 
