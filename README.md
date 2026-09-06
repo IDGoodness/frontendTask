@@ -1,4 +1,4 @@
-# Tobams Group - Training & Development (Frontend Assessment)
+# Tobams Group - Frontend Assessment
 
 A pixel-perfect, responsive static page implementation for **Tobams Group** built with **Next.js 16 (App Router)** and **Tailwind CSS**, based on the official Figma design.
 
@@ -7,8 +7,8 @@ A pixel-perfect, responsive static page implementation for **Tobams Group** buil
 ## Links
 
 - **Figma Design Reference:** [Frontend Intern Assessment (Figma)](https://www.figma.com/design/wuqCLkK1feTgB6xxSRRwZu/Frontend-Intern-Assessment?node-id=0-1&p=f&t=qxnAKp4Ael8QtLYz-0)
-- **Live Deployment URL:** `[https://frontendtask-ochre.vercel.app/]`
-- **GitHub Repository:** `[https://github.com/IDGoodness/frontendTask]`
+- **Live Deployment URL:** [https://frontendtask-ochre.vercel.app/](https://frontendtask-ochre.vercel.app/)
+- **GitHub Repository:** [https://github.com/IDGoodness/frontendTask](https://github.com/IDGoodness/frontendTask)
 
 ---
 
